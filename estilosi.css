@@ -1,0 +1,51 @@
+body{
+    background-color: aqua;
+}
+
+#caja1{
+    
+    text-align: center;
+    background-color: aliceblue;
+    height: 33em;
+   
+    width: 33em;
+    
+    border-radius: 10px;
+    box-shadow: 5px 12px 15px rgb(39, 37, 37);
+    border:5px solid ;
+    position: relative;
+    top: 150px;
+    right: 2px;
+    margin: 10px auto;
+    
+    
+}
+
+video{
+    border-radius: 15px;
+    height: 32em;
+    width: 27em;
+    position: relative;
+    bottom: 100px;
+    margin: 0, auto;
+    
+
+}
+
+
+
+
+
+
+
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    text-shadow: 1px 8px 8px gray;
+    font-size: 50px;
+    position: relative;
+    bottom: 238px;
+}
+
+
